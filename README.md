@@ -38,12 +38,13 @@
 ### Getting chat source
 #### How to use :
 - 👍Watch the tutorial video first
-- 1️⃣ First install version 3 of Python
-- 2️⃣ Give the instructions according to the video
-- 3️⃣ Turn off the server and enjoy
-- ⚠️Warning:
-- This program can cause a lot of damage to the server in the long run
-- This app is not coded for jokes
+
+- 1️⃣ Install Python 3
+- 2️⃣ Go to my telegram
+- 3️⃣ Give your numeric ID
+- 4️⃣ Give your hash
+- 5️⃣ Give your phone number
+- 6️⃣ Watch the movie
 
 ##### Sales of training and security software
 - 🛄 Privet tutorials and scripts 🈂️  https://M4nifest0.com 🈂️
